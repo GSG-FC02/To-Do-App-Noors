@@ -57,4 +57,46 @@ input::placeholder {
     font-size: 1rem;
   }
  
+/* style for javacodes */
+.todo-container{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
 
+.todo-lists{
+    width : 100%;
+    list-style: none;
+}
+.todo {
+    border: none;
+    background-color: #ADCBBF;
+    margin: 20px;
+    padding: .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.todo li {
+    flex: 1;
+}
+
+.trash-btn , .complete-btn {
+    background-color: rgba(0, 0, 0, 0) ;
+    border: none;
+    padding: .8rem;
+    cursor: pointer;
+}
+
+.todo-item{
+    padding: 0rem .5rem;
+}
+.fa-trash-alt , .fa-check {
+    pointer-events: none;
+}
+.completed {
+    text-decoration: line-through;
+    opacity: .5;
+}
