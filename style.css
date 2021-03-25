@@ -15,7 +15,7 @@ body{
 .todo-header{
     font-family: cursive;
     font-size: 1 rem;
-    flex-direction: column;
+    flex-direction: column;S
 }
 
 h2{
@@ -49,6 +49,11 @@ form{
     width: 3.5rem;
     border: 4px solid #ADCBBF;
     border-left: none;
+}
+
+.todo-button:hover{
+    font-size: 1.5rem;
+    cursor: pointer;
 }
 
 input::placeholder {
@@ -87,6 +92,11 @@ input::placeholder {
     border: none;
     padding: .8rem;
     cursor: pointer;
+}
+
+.trash-btn:hover , .complete-btn:hover{
+    background-color: rgba(255, 250, 250, 0.5);
+    font-size: 1rem;
 }
 
 .todo-item{
