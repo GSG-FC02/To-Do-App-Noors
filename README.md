@@ -1,7 +1,9 @@
 # To-Do-App-Noors
 # Welcome To Our "To-Do-App" Project.
+https://gsg-fc02.github.io/To-Do-App-Noors/.
+
 ## Introduction
-This is our Third project as members of **The Fundamentals Course** at Code Academy at GazaSkyGeeks organization and it will be a Cooking-Recipes mobile site.
+This is our third project as members of **The Fundamentals Course** at Code Academy at GazaSkyGeeks organization and it will be a to-do app.
 
 ---
 
@@ -62,3 +64,10 @@ In our journey to finish designing the site we will divide the work into steps:
 
 
 Our team members will use **HTML5** & **CSS** & JS .
+
+
+# User Stories
+- I can write the title of my todo
+- I can add my to-do to the list and save it in local storage
+- I can remove any Item from my list (remove it from local storage)
+- I can still have my list even if I close the browser window
