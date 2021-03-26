@@ -11,18 +11,63 @@ body{
     background-color: #ffffff;
 }
 
-.todo-header{
+/* Start Index Page*/
+
+.figure{
+    text-align: center;
+    font-family: cursive;
+}
+
+.picture{
+    height: 48vh;
+    width: 57vh;
+}
+
+.header{
+    font-size: 1.6rem;
+}
+
+.sub-header{
+    font-weight: lighter;
+    font-size: 0.8rem;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.button_index {
+    background-color: #ADCBBF; 
+    border: none;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-top: 40px;
+  }
+
+  .icon_index , .linked_index{
+      color: black;
+      font-size: large;
+      text-decoration: none;
+  }
+
+  /* End Index Page*/
+
+  /*Start to-do-list page*/
+
+  .todo-header{
     font-family: cursive;
     font-size: 1 rem;
     flex-direction: column;
-}
+  }
 
-h2{
+ h2{
     font-family: sans-serif;
     font-size: 1rem;
     font-weight: lighter;
     margin-top: 0.5rem;
-}
+ }
 
 .todo-header , form {
     display: flex;
@@ -33,6 +78,7 @@ h2{
 
 form{
     margin-top: 1.5rem;
+    
 }
 .todo-input{
      height: 4rem;
