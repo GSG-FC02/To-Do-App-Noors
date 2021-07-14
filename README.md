@@ -48,7 +48,10 @@ the site will conatain 1 page (To do list page)
 
   
 
----
+## our Design 
+![Screenshot 2021-07-14 101454](https://user-images.githubusercontent.com/77840855/125676987-717717fb-1703-44a6-a101-52e4ae77da2d.jpg)
+![Screenshot 2021-07-14 101510](https://user-images.githubusercontent.com/77840855/125677002-8d050bda-334c-4a04-a0e9-20e9ed8b73e3.jpg)
+
 
 # Team Members Journey while desiging (From the start to the end)
 
